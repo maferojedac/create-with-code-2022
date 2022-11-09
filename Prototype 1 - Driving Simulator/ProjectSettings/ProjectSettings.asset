@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
+<<<<<<< HEAD
   productGUID: 1a58fb78e77798f449485f980953af3c
+=======
+  productGUID: d4c03df07a3482e4ab60f08fff07daf5
+>>>>>>> parent of ce60ce2 (deleted unnecessary files)
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
